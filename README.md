@@ -1,4 +1,4 @@
-# onmilocal.com
+# omnilocal.com
 OmniLocal LLM - WebGPU Sandbox
 
 # Chatbot Model Fix and UI Upgrade
